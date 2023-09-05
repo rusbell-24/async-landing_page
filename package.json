@@ -1,0 +1,15 @@
+{
+  "name": "async-landing_page",
+  "version": "1.0.0",
+  "description": "Landing page desarrollada con html, css y javaScrip. usando el asincronismo.",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
